@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated DRIM-Net++ manuscript."
+title: "DRIM-Net++: Dual-Representation Inconsistency Modeling with Hyperspherical Evidence Learning for Generalizable Deepfake Detection"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Chao
+  - family-names: Xu
+    given-names: Shengfang
+  - family-names: Song
+    given-names: Dandan
+  - family-names: Tian
+    given-names: Jiya
+  - family-names: Liu
+    given-names: Zepeng
+date-released: 2026-09-17
+

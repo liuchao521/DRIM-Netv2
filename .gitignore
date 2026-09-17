@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+*.so
+.DS_Store
+.idea/
+.vscode/
+
+# Environments and caches
+.venv/
+venv/
+envs/
+.cache/
+
+# Datasets, checkpoints, and experiment outputs
+data/splits/*.txt
+!data/splits/example.txt
+data/images/
+datasets/
+checkpoints/*
+!checkpoints/.gitkeep
+outputs/*
+!outputs/.gitkeep
+runs/
+wandb/
+*.pth
+*.pt
+*.pkl
+*.ckpt
+
+# Generated reports
+*.log
+results*.txt
+results*.csv
+
